@@ -1,2 +1,4 @@
 **/db_sqlite3
 gitignore
+*.pyc
+__pychache__/
