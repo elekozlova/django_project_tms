@@ -13,7 +13,11 @@ SECRET_KEY = '1'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = [
+    "127.0.0.1",
+    "localhost",
+    "django-progect-tms.herokuapp.com",
+]
 
 INSTALLED_APPS = [
     'django.contrib.admin',
