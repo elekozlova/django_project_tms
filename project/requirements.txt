@@ -1,8 +1,11 @@
+uvicorn
 Django
-gunicorn
 dj-database-url
 psycopg2-binary
-django_heroku
+psycopg2
+django-cors-headers
+whitenoise
+
 
 
 
